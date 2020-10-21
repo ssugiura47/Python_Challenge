@@ -1,1 +1,1 @@
-Total number of votes: 3521001, The candidates are: ['Khan', 'Correy', 'Li', "O'Tooley"], Khan has 63.0 percent of the votes!, Correy has 20.0 percent of the votes!, Li has 14.0 percent of the votes!, O'Tooley has 3.0 percent of the votes!, The winner is khan!
+Total number of votes: 3521001, The candidates are: ['Khan', 'Correy', 'Li', "O'Tooley"], Khan has 63.0 percent of the votes!, Correy has 20.0 percent of the votes!, Li has 14.0 percent of the votes!, O'Tooley has 3.0 percent of the votes!, The winner is Khan!
